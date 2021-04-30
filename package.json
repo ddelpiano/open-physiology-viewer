@@ -2,7 +2,7 @@
   "name": "open-physiology-viewer",
   "version": "0.1.0",
   "description": "Open-physiology viewer",
-  "main": "dist/index.js",
+  "main": "dist/test-app/index.js",
   "scripts": {
     "test": "mocha-webpack --opts mocha-webpack.opts",
     "build": "cross-env BABEL_ENV=production webpack",
